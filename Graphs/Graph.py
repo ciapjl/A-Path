@@ -37,7 +37,7 @@ class Graph:
         if node1 in node2.neighbours or node2 in node1.neighbours:
             return True
         return False
-    
+
         
 
   
